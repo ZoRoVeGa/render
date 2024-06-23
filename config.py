@@ -50,9 +50,6 @@ API_HASH = "2925bdb4b1776707089286393330c72d"
 # Chat used for logs
 log_chat = 6326221634
 # Sudoers and super sudoers
-sudoers += super_sudoers
-developer = []
-developer += sudoers
 bot_start_time = time.time()
 
 ####################################################################################
